@@ -14,13 +14,9 @@ padding : 0;
 line-height : 1.5em;
 }
 #banner {
-height : 180px;
+height : 150px;
 padding : 0;
-.centrado {
 background : #f7f7f7 url(images/Ajoloteportada.jpg) no-repeat;
-    margin-left:auto;
-    margin-right:auto;
-}   
 color : #333;
 }
 #banner h1 {margin : 0;
